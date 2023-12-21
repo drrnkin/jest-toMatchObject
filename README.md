@@ -3,7 +3,7 @@ Demos a bug with jest toMatchObject
 
 
 To reproduce, run
-yarn
-yarn test
+* yarn
+* yarn test
 
 The toMatchObject() hangs until the test times out.
