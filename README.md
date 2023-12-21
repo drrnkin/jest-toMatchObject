@@ -7,3 +7,5 @@ To reproduce, run
 * yarn test
 
 The toMatchObject() hangs until the test times out.
+
+Logged https://github.com/jestjs/jest/issues/14769
